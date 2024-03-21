@@ -18,7 +18,7 @@ import rl, { questionInt } from 'readline-sync';
 for (let i = 1; i <= 2; i++) {
     // Ler o nome e o salário bruto da pessoa
     let nome = rl.question(`Informe o nome da ${i}ª pessoa: `);
-    let salario = rl.questionFloat(`Informe o salário de ${nome}: `);
+    let salario = rl.questionFloat(`Informe o salario de ${nome}: `);
 
     let impostoRenda = 0;
 
