@@ -2,9 +2,9 @@
 console.log("\t--- Exercício 01 ---")
 // Definir um objeto com algumas propriedades
 const pessoa = {
-    nome: "João",
-    idade: 30,
-    cidade: "São Paulo"
+    nome: "Lura",
+    idade: 35,
+    cidade: "São Miguel"
 };
 
 // Iterar sobre as propriedades do objeto pessoa usando for...in
@@ -15,7 +15,7 @@ for (let chave in pessoa) {
 // 02-Escreva um programa que itere sobre os elementos de um array e imprima seus valores.
 console.log("\n\t--- Exercício 02 ---")
 // Definir um array com alguns valores
-const cores = ["Azul", "Branco", "Amarelo", "Verde", "Vermelho"];
+const cores = ["Vermelho", "Roxo", "Cinza", "Branco", "Vermelho"];
 
 // Iterar sobre os elementos do array usando for...of
 for (let cor of cores) {
