@@ -1,13 +1,3 @@
-//1. Crie um programa que declare duas variáveis e exiba o resultado da soma,
-//subtração, multiplicação e divisão desses números.
-//2. Declare duas idades e utilize operadores de comparação para verificar se uma
-//pessoa é mais velha que a outra.
-//3. Crie uma variável idade com um número e use o operador ternário para verificar
-//se o valor armazenado na variável é maior ou igual a 18. Imprima “Maior de
-//idade” ou “Menor de idade”.
-//4. Crie uma variável com um número e use o operador ternário para verificar se é
-//par ou ímpar.
-
 var nome = "Maria Eduarda";
 var idade = 16;
 console.log("Olá, meu nome é", nome, "e eu tenho", idade, "anos.");
